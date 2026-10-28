@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Básica Didática",
+  "description": "Calculadora simples e moderna com as quatro operações básicas da matemática, histórico, suporte a teclado e guia explicativo para iniciantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
